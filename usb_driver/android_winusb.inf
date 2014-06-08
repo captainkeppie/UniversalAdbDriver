@@ -847,6 +847,8 @@ HKR,,Icon,,-1
 %LG%                   = USB_Install, USB\VID_1004&PID_61FA&MI_01
 %LG%                   = USB_Install, USB\VID_1004&PID_631C
 %LG%                   = USB_Install, USB\VID_1004&PID_631C&MI_01
+%LG%                   = USB_Install, USB\VID_1004&PID_6244
+%LG%                   = USB_Install, USB\VID_1004&PID_6244&MI_04
 %LG%                   = USB_Install, USB\VID_1004&PID_6866
 %LG%                   = USB_Install, USB\VID_1004&PID_6866&MI_01
 %LG%                   = USB_Install, USB\VID_1004&PID_D001
